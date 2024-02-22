@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b306f2f2071024049884d6f72360180c, type: 3}
+    - {fileID: 2800000, guid: 7c4cf9b90df36d74d9ecf97f11234382, type: 3}
+    - {fileID: 2800000, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -54586167, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 264623358, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 959727510, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -2123187533, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 588838347, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -705860690, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -1972553798, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 722031664, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 94495720, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -1676460168, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -1327828634, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 475181481, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -478428315, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -22485721, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: -1826375380, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 501586995, guid: b306f2f2071024049884d6f72360180c, type: 3}
+  - {fileID: 288932142, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -834641244, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1007016608, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -623762707, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -210081559, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1783726385, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -677211423, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 353752615, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 326190016, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1033285510, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1949891421, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 934477800, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 849401049, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1159748916, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 223746068, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 717624438, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -384313032, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 253872004, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1709982766, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -2086130927, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 710064634, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1741596678, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1462483608, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -2104118050, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1593250116, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1222346818, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1525807278, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 792046707, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 235036017, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1233379081, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 1184217168, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: -1295822563, guid: acb6246740ed8ac41bbe2bd5112bf98f, type: 3}
+  - {fileID: 21300000, guid: 7c4cf9b90df36d74d9ecf97f11234382, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 16x16 Pallette for ground, temp_12
+  - 16x16 Pallette for ground, temp_13
+  - 16x16 Pallette for ground, temp_10
+  - 16x16 Pallette for ground, temp_11
+  - 16x16 Pallette for ground, temp_14
+  - 16x16 Pallette for ground, temp_15
+  - 16x16 Pallette for ground, temp_7
+  - 16x16 Pallette for ground, temp_6
+  - 16x16 Pallette for ground, temp_5
+  - 16x16 Pallette for ground, temp_4
+  - 16x16 Pallette for ground, temp_3
+  - 16x16 Pallette for ground, temp_2
+  - 16x16 Pallette for ground, temp_1
+  - 16x16 Pallette for ground, temp_0
+  - 16x16 Pallette for ground, temp_9
+  - 16x16 Pallette for ground, temp_8
+  - first set of draft art_18
+  - first set of draft art_19
+  - first set of draft art_14
+  - first set of draft art_15
+  - first set of draft art_16
+  - first set of draft art_17
+  - first set of draft art_10
+  - first set of draft art_11
+  - first set of draft art_12
+  - first set of draft art_13
+  - first set of draft art_5
+  - first set of draft art_4
+  - first set of draft art_7
+  - first set of draft art_6
+  - first set of draft art_1
+  - first set of draft art_0
+  - first set of draft art_3
+  - first set of draft art_2
+  - first set of draft art_9
+  - first set of draft art_8
+  - first set of draft art_30
+  - first set of draft art_31
+  - first set of draft art_25
+  - first set of draft art_24
+  - first set of draft art_27
+  - first set of draft art_26
+  - first set of draft art_21
+  - first set of draft art_20
+  - first set of draft art_23
+  - first set of draft art_22
+  - first set of draft art_29
+  - first set of draft art_28
+  - 16x16 Pallette some peoples faces
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
